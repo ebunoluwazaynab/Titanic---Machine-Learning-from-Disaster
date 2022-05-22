@@ -1,0 +1,12 @@
+﻿Variable,Definition,Key
+Survived,Survival,"0 = No, 1 = Yes"
+Pclass,Ticket class,"1 = 1st (Upper), 2 = 2nd (Middle), 3 = 3rd (Lower)"
+Name,Name ,
+Sex,Sex,
+Age,Age in years,
+SibSp,No of siblings/spouses aboard the Titanic,
+Parch,No of parents/children aboard the Titanic,
+Ticket,Ticket number,
+Fare,Passenger fare,
+Cabin,Cabin number,
+Embarked,Port of Embarkation,"C = Cherbourg, Q = Queenstown, S = Southampton"
